@@ -8,7 +8,7 @@ TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last ver
 
 **Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
 ## telegram: @neo_galaxy
-
+  
 ```json
 [
     {
@@ -153,6 +153,5 @@ TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last ver
     }
 ]
 ```
-
 **Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
 ## telegram: @neo_galaxy
