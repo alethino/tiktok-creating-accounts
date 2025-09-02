@@ -4,10 +4,10 @@
 # tiktok-accounts-maker
 TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last version
 
-## last version 39.4.3
+## last version 41.5.4
 
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
-## telegram: @neo_galaxy
+**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
+## telegram: @alethino
   
 ```json
 [
@@ -153,5 +153,5 @@ TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last ver
     }
 ]
 ```
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
-## telegram: @neo_galaxy
+**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
+## telegram: @alethino
